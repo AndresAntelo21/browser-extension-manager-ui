@@ -120,9 +120,9 @@
 }
 
 @layer base {
-  body {
+  * {
     transition:
-      background-color 300ms ease,
-      color 300ms ease;
+      background-color 500ms ease,
+      color 500ms ease;
   }
 }
